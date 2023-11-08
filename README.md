@@ -28,8 +28,8 @@ The combination of OpenCV's image capture capabilities and Replicate AI's advanc
 3. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/image-quality-enhancement.git
-cd image-quality-enhancement
+git clone https://github.com/kaushik54git/CrispCapture-Improving-Laptop-Camera-Image-Quality.git
+cd CrispCapture-Improving-Laptop-Camera-Image-Quality
 ```
 
 4. Set up the Replicate AI credentials in the program. Open the `config.json` file and replace `<YOUR_API_KEY>` with your actual Replicate AI API key.
@@ -41,7 +41,7 @@ cd image-quality-enhancement
 1. Build the C++ program using your preferred C++ compiler:
 
 ```bash
-g++ -o enhance_cxx enhance_image.cpp `pkg-config --cflags --libs opencv`
+g++ -o enhance camera_on.cpp `pkg-config --cflags --libs opencv`
 ```
 
 2. Run the C++ program:
