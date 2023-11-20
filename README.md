@@ -68,6 +68,11 @@ python rep_py.py
 
 3. Similar to the C++ version, the Python program will open the laptop's camera and display real-time images after enhancement.
 
+## Result
+
+![sample image ](https://github.com/kaushik54git/CrispCapture-Improving-Laptop-Camera-Image-Quality/blob/5458fef96b5c13d0164ec2c08db78ed643f5e076/sample.png)
+
+
 ## Contributing
 
 We welcome contributions from the community! If you find any issues or have ideas to improve this project, please feel free to open an issue or submit a pull request.
